@@ -9,7 +9,7 @@ A simple console game Rock-Paper-Scissors, written with Python. Some interactive
 
 ## Output
 
-<img src="https://github.com/boykogr/rock_paper_scissors_v1/rock-paper-scissors-1-demo.gif" width="720" height="615" />
+<img src="https://github.com/boykogr/rock_paper_scissors_v1/blob/main/rock-paper-scissors-1-demo.gif" width="720" height="615" />
 
 ## Live Demo on Replit
 
