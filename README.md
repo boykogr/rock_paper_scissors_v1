@@ -11,6 +11,11 @@ A simple console game Rock-Paper-Scissors, written with Python. Some interactive
 
 <img src="https://github.com/boykogr/rock_paper_scissors_v1/rock-paper-scissors-1-demo.gif" width="720" height="615" />
 
+## Live Demo on Replit
+
+You can play the game directly from your browser here:
+https://replit.com/@BoykoGr/rockpaperscissors1
+
 # Rock Paper Scissors 
 ---
 > Description : Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors". This C++ Program [Mini Project] is aimed at automating one of the player called as Computerized Player and the taking rock, paper or scissor as an input from the used.
